@@ -1,6 +1,6 @@
 # Exoplanet Transit Detection with TESS
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17934825.svg)](https://doi.org/10.5281/zenodo.17934825)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **Duration:** 60-90 minutes
@@ -276,7 +276,7 @@ If you use this project or discover new planet candidates, please cite:
   title = {Exoplanet Transit Detection with TESS},
   author = {Research Jumpstart Community},
   year = {2025},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {10.5281/zenodo.17934825},
   url = {https://github.com/scttfrdmn/rj-astronomy-exoplanet-detection-tier0}
 }
 ```
